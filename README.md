@@ -1,7 +1,7 @@
 poster-image
 ============
 
-Accepts Vimeo or YouTube link as input and downloads poster image it. It also does a simple auto-crop to the poster images, cropping any black borders that might be present due to size differences.
+Accepts Vimeo or YouTube link as input and downloads its poster image. It also does a simple auto-crop to the poster images, cropping any black borders that might be present due to size differences.
 
 Usage
 =====
