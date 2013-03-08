@@ -6,8 +6,8 @@ Accepts Vimeo or YouTube link as input and downloads poster image it. It also do
 Usage
 =====
 
-python poster-image.py https://www.youtube.com/watch\?v\=6aU2s85Zw3A
-python poster-image.py http://vimeo.com/50860740
+    python poster-image.py https://www.youtube.com/watch\?v\=6aU2s85Zw3A
+    python poster-image.py http://vimeo.com/50860740
 
 Dependencies
 ============
